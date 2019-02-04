@@ -1,0 +1,12 @@
+{
+    "name": "pugbo/headlesscms",
+    "description": "Esercizio di installazione e configurazione CMS headless con Directus PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tassoman",
+            "email": "tassoman@gmail.com"
+        }
+    ],
+    "require": {}
+}
