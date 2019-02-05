@@ -1,0 +1,10 @@
+{
+  "name": "headlesscms",
+  "version": "1.0.0",
+  "description": "Consumatore delle APIs Directus",
+  "main": "index.html",
+  "repository": "git@github.com:pugbo/headlesscms.git",
+  "author": "Tassoman <tassoman@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
