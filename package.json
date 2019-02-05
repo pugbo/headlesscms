@@ -6,5 +6,8 @@
   "repository": "git@github.com:pugbo/headlesscms.git",
   "author": "Tassoman <tassoman@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@directus/sdk-js": "^5.2.1"
+  }
 }
