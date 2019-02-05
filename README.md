@@ -10,16 +10,16 @@ Esercizio di installazione e configurazione del cms Directus
 * nvm?
 
 Installare Directus:
-* `git clone https://github.com/directus/directus
-* create database directus
-* create user directus identified by directus
-* mysql < directus.sql
+* `git clone https://github.com/directus/directus`
+* mysql `create database directus`
+* mysql `create user directus identified by directus`
+* `mysql < directus.sql`
 * puntare la root di apache su _./public_
 * login con admin@example.com / password
 
 ## Installare l’ambiente
-* composer install
-* yarn
+* `composer install`
+* `yarn`
 
 ## Pronti, via!
 
