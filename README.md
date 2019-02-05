@@ -9,7 +9,7 @@ Esercizio di installazione e configurazione del cms Directus
 * node, npm/yarn
 * nvm?
 
-Installare Directus:
+## Installare Directus:
 * `git clone https://github.com/directus/directus`
 * mysql `create database directus`
 * mysql `create user directus identified by directus`
@@ -18,7 +18,7 @@ Installare Directus:
 * login con admin@example.com / password
 
 ## Installare l’ambiente
-* `composer install`
+* `composer install` ? perché ? boh potrebbe tornare utile
 * `yarn`
 
 ## Pronti, via!
