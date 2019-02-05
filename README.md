@@ -1,10 +1,26 @@
 # headlesscms
 Esercizio di installazione e configurazione del cms Directus 
 
-* apache2
-* mariadb-server
+## Materiale occorrente 
+* apache2/httpd
+* mod_fcgi
+* php7 fpm
+* mariadb-server/mysql
+* node, npm/yarn
 * nvm?
-* npm/yarn
 
-## Directus 
-https://directus.io/ 
+Installare Directus:
+* `git clone https://github.com/directus/directus
+* create database directus
+* create user directus identified by directus
+* mysql < directus.sql
+* puntare la root di apache su _./public_
+* login con admin@example.com / password
+
+## Installare l’ambiente
+* composer install
+* yarn
+
+## Pronti, via!
+
+:grin:
