@@ -1,0 +1,4 @@
+localhost {
+    fastcgi / 127.0.0.1:9073 php
+    tls self_signed
+}

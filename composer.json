@@ -9,5 +9,6 @@
         }
     ],
     "require": {
+        "bcosca/fatfree": "^3.6"
     }
 }
