@@ -1,4 +1,4 @@
-# headlesscms
+# Mini workshop su headless cms Directus
 Esercizio di installazione e configurazione del cms Directus 
 
 ## Materiale occorrente 
